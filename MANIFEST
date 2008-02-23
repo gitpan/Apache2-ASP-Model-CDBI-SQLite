@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Apache2-ASP-Model-CDBI-SQLite.t
+lib/Apache2/ASP/Model/CDBI/SQLite.pm
+META.yml                                 Module meta-data (added by MakeMaker)

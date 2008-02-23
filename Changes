@@ -1,0 +1,6 @@
+Revision history for Perl extension Apache2::ASP::Model::CDBI::SQLite.
+
+0.01  Fri Feb 22 21:49:02 2008
+	- original version; created by h2xs 1.23 with options
+		-AXn Apache2::ASP::Model::CDBI::SQLite
+
